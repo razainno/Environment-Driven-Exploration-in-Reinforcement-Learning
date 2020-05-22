@@ -7,5 +7,5 @@
 
 # Result forANT robot by changing the position for every episode  
 
- ![Alt text](https://github.com/razainno/cognitive_project_final/blob/master/gif/ant_position.gif "ANT movement after position change correlated noise")
+ ![Alt text](https://github.com/razainno/cognitive_project_final/blob/master/gif/ant_position.gif "ANT movement after position change correlated noise" )  
 
