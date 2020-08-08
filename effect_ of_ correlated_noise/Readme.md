@@ -1,5 +1,5 @@
 # Locomotor file contain the modification for gravity_function    
-> Both folder contain the seeds of experiment for both robot  
+> Both folder contain the seeds of experiment for both robot   
 ## 
 
 # Result for halfcheetah robot by changing gravity_function value 
